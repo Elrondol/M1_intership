@@ -1,0 +1,10 @@
+
+010_getdata
+    file conflict when || run ... 
+
+020_noise_prepro
+    file conflict when || run ... 
+    output format (float 16, 32..) as a paramter
+
+030_xcorr 
+    change memory overload

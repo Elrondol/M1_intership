@@ -1,0 +1,11 @@
+data_parkfield/data_10.0hz/
+data_parkfield/data_10.0hz_cooked/
+data_parkfield/data_40.0hz/
+data_parkfield/data_20.0hz/
+data_parkfield/data_20.0hz_cooked/
+data_parkfield/data_40.0hz_cooked/
+data_broad/
+*.std*
+PSDS/
+beam/save_beam/
+doc.kml

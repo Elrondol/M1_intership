@@ -1,0 +1,128 @@
+Licence to use the SOFTWARE named PYCORR
+contact : pycorr@univ-grenoble-alpes.fr
+
+This license contract aims to define the terms and conditions under which University Grenoble Alpes
+(UGA) grants a free right to use the SOFTWARE to the User, who accepts it. This License (the
+"License") applies to the software identified as PYCCOR (the "SOFTWARE") whose owner (the
+"Licensor") has placed the following licensing notice adjacent to the copyright notice for the
+SOFTWARE:
+
+1) Grant of Copyright License. Licensor grants to the User a worldwide, royalty-free, non-exclusive,
+sublicensable license, for the duration of the copyright, to do the following: 
+a) to reproduce the SOFTWARE in copies, either alone or as part of a collective work; 
+b) to translate, adapt, alter,transform, modify, or arrange the SOFTWARE, thereby creating derivative
+works ("Derivative Works") based upon the SOFTWARE; 
+c) to distribute or communicate copies of the SOFTWARE and Derivative Works to the public, under any
+license of the User’s choice that does not contradict the terms and conditions, including Licensor's
+reserved rights and remedies, in this License; 
+d) to perform the SOFTWARE publicly; and 
+e) to display the SOFTWARE publicly.
+
+
+2) Grant of Patent License. Licensor grants to the User a worldwide, royalty-free, non-exclusive,
+sublicensable license, for the duration of the SOFTWARE’s protection by intellectual property
+rights, to study, use, have made, and import the SOFTWARE and Derivative Works for academic
+purposes. Such use can in no case be commercial use without express prior permission of the
+Licensor.
+
+
+3) Grant of Source Code License. The term "Source Code" means the preferred form of the SOFTWARE for
+making modifications to it and all available documentation describing how to modify the SOFTWARE.
+Licensor agrees to provide a machine-readable copy of the Source Code of the SOFTWARE along with
+each copy of the SOFTWARE that Licensor distributes. Licensor reserves the right to satisfy this
+obligation by placing a machine-readable copy of the Source Code in an information repository
+reasonably calculated to permit inexpensive and convenient access by the User for as long as
+Licensor continues to distribute the SOFTWARE.
+
+
+4) Exclusions From License Grant. Neither the names of Licensor, nor the names of any contributors
+to the SOFTWARE, nor any of their trademarks or service marks, may be used to endorse or promote
+products derived from this SOFTWARE without express prior permission of the Licensor. Except as
+expressly stated herein, nothing in this License grants any license to Licensor's trademarks,
+copyrights, patents, trade secrets or any other intellectual property. No license is granted to the
+trademarks of Licensor even if such marks are included in the SOFTWARE. Nothing in this License
+shall be interpreted to prohibit Licensor from licensing under terms different from this License any
+SOFTWARE that Licensor otherwise would have a right to license.
+
+
+5) External Deployment. The term "External Deployment" means the use, distribution, or communication
+of the SOFTWARE or Derivative Works in any way such that the SOFTWARE or Derivative Works may be
+used by anyone other than the User, whether those works are distributed or communicated to those
+persons or made available as an application intended for use over a network. As an express condition
+for the grants of license hereunder, the User must treat any External Deployment by the User of the
+SOFTWARE or a Derivative Work as a distribution under section 1(c).
+
+
+6) Attribution Rights. The User must retain, in the Source Code of any Derivative Works that the
+User creates, all copyright, patent, or trademark notices from the Source Code of the SOFTWARE, as
+well as any notices of licensing and any descriptive text identified therein as an "Attribution
+Notice." the User must cause the Source Code for any Derivative Works that the User creates to carry
+a prominent Attribution Notice reasonably calculated to inform recipients that the User has modified
+the SOFTWARE.
+
+
+7) Disclaimer of Warranty. Except as expressly stated in the immediately preceding sentence, the
+SOFTWARE is provided under this License on an "AS IS" BASIS and WITHOUT WARRANTY, either express or
+implied, including, without limitation, the warranties of non-infringement, merchantability or
+fitness for a particular purpose. the entire risk as to the quality of the SOFTWARE is with the
+User. This disclaimer of warranty constitutes an essential part of this License. No license to the
+SOFTWARE is granted by this License except under this disclaimer.
+
+
+8) Limitation of Liability. Under no circumstances and under no legal theory, whether in tort
+(including negligence), contract, or otherwise, shall the Licensor be liable to anyone for any
+indirect, special, incidental, or consequential damages of any character arising as a result of this
+License or the use of the SOFTWARE including, without limitation, damages for loss of goodwill, work
+stoppage, computer failure or malfunction, or any and all other commercial damages or losses.
+
+
+9) Acceptance and Termination. If, at any time, the User expressly assented to this License, that
+assent indicates his clear and irrevocable acceptance of this License and all of its terms and
+conditions. If the User distributes or communicates copies of the SOFTWARE or a Derivative Work, the
+User must make a reasonable effort under the circumstances to obtain the express assent of
+recipients to the terms of this License. This License conditions your rights to undertake the
+activities listed in Section 1, including your right to create Derivative Works based upon the
+SOFTWARE, and doing so without honoring these terms and conditions is prohibited by copyright law
+and international treaties. Nothing in this License is intended to affect copyright exceptions and
+limitations (including "fair use" or "fair dealing"). This License shall terminate immediately and
+the User may no longer exercise any of the rights granted to the User by this License upon your
+failure to honor the conditions in Section 1(c).
+
+
+10) Termination for Patent Action. This License shall terminate automatically and the User may no
+longer exercise any of the rights granted to the User by this License as of the date the User
+commences an action, including a cross-claim or counterclaim, against Licensor or any licensee
+alleging that the SOFTWARE infringes a patent. This termination provision shall not apply for an
+action alleging patent infringement by combinations of the SOFTWARE with other software or hardware.
+
+
+11) Jurisdiction, Venue and Governing Law. Any action or suit relating to this License may be
+brought before the competent courts of Grenoble, France which shall apply french law. Any use of the
+SOFTWARE outside the scope of this License or after its termination shall be subject to the
+requirements and penalties of copyright or patent law in the appropriate jurisdiction. This section
+shall survive the termination of this License.
+
+
+12) Attorneys' Fees. In any action to enforce the terms of this License or seeking damages relating
+thereto, the prevailing party shall be entitled to recover its costs and expenses, including,
+without limitation, reasonable attorneys' fees and costs incurred in connection with such action,
+including any appeal of such action. This section shall survive the termination of this License.
+
+
+13) Miscellaneous. If any provision of this License is held to be unenforceable, such provision
+shall be reformed only to the extent necessary to make it enforceable.
+
+
+14) Definition of the "User" in This License. The "User" throughout this License, whether in upper
+or lower case, means an individual or a legal entity exercising rights under, and complying with all
+of the terms of, this License. For legal entities, The "User" includes any entity that controls, is
+controlled by, or is under common control with you. For purposes of this definition, "control" means
+(i) the power, direct or indirect, to cause the direction or management of such entity, whether by
+contract or otherwise, or (ii) ownership of fifty percent (50%) or more of the outstanding shares,
+or (iii) beneficial ownership of such entity.
+
+
+15) Right to Use. The User may use the SOFTWARE in all ways not otherwise restricted or conditioned
+by this License or by law, and Licensor promises not to interfere with or be responsible for such
+uses by the User. If User wishes to use the SOFTWARE in other ways than those authorized in this
+license, he shall seek the prior express permission of the Licensor at the following address: 
